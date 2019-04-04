@@ -1,0 +1,8 @@
+# Metastore_db ignoring
+metastore_db/
+
+# IPython notebook checkpoints
+.ipynb_checkpoints/
+
+# logs
+*.log
